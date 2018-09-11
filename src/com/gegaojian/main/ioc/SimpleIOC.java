@@ -1,4 +1,4 @@
-package com.gegaojian.main;
+package com.gegaojian.main.ioc;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
